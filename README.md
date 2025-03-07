@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixmp7" alt="felixmp7" /></a> </p>
 
-- 🔭 I’m currently working on [Dear HR Landing](https://github.com/Felixmp7/dear-hr-landing)
+- 🔭 I’m currently working on [DUAL STUDIO](https://github.com/Felixmp7/dual-studio-landing)
 
 - 🌱 I’m currently learning **Backend Development in general**
 
